@@ -3,4 +3,9 @@ a:
   last_name:  "m"
   email: "a@gmail.com"
   profile_name: "am"
-  
+
+bob:
+  first_name: "bob"
+  last_name: "jasos"
+  email: "bob@gmail.com"
+  profile_name: "bobjasos"
